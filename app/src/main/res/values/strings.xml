@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Aleksandra_Wesolowska_PAM</string>
+    <string name="OpisApki">Application tell you about nail art and help calculate proportion of used nail polish on person</string>
+    <string name="PrzyciskStartowy">Start</string>
+    <string name="Przycisk1">What is nails art ?</string>
+    <string name="Przycisk2">Calculations</string>
+    <string name="OpisStylizacji">Nail styling goes back to far-reaching history and beautification. Millennia have passed from the first timid beginnings, during which work was carried out to improve preparations and instruments for making a manicure. Today, as well as centuries ago, nail styling provides women with access to the whole thing. Fortunately, we have so many options for decorating tiles today. Varnishes, care preparations, tools and tools and tools available to a few, stand on the shelves in every home, in the case of only one woman.</string>
+    <string name="Dana1">Enter the capacity of the nail polish bottle:</string>
+    <string name="Dana2">Enter the number of styling made:</string>
+    <string name="Liczba1"></string>
+    <string name="Liczba2"></string>
+    <string name="PrzyciskOblicz">Calculate</string>
+    <string name="OpisWyniku1">How much nail polish is left in the bottle:</string>
+    <string name="OpisWyniku2">Remaining amount of nail polish per person:</string>
+    <string name="PrzyciskPowrot">Return</string>
+</resources>
